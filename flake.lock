@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "root": {
+      "inputs": {
+        "subflake": "subflake"
+      }
+    },
+    "subflake": {
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-KBoE55ZD2kTCYMT7RLymsljiDJyrxlzTAhXSkopGT1E=",
+        "path": "/nix/store/va3d3wz6rli80qnl8pls844wi4zazjwj-source/subflake",
+        "type": "path"
+      },
+      "original": {
+        "path": "/nix/store/va3d3wz6rli80qnl8pls844wi4zazjwj-source/subflake",
+        "type": "path"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

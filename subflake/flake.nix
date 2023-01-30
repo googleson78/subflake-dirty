@@ -1,0 +1,5 @@
+{
+  description = "subflake";
+
+  outputs = { self, ... }: { };
+}
